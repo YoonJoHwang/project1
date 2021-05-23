@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Vegan Began"; ObjectID = "AfR-eF-u2V"; */
+"AfR-eF-u2V.text" = "Vegan Began";
+
+/* Class = "UILabel"; text = "닉네임"; ObjectID = "CWF-ff-Y2p"; */
+"CWF-ff-Y2p.text" = "닉네임";
+
+/* Class = "UIViewController"; title = "myMap"; ObjectID = "D0f-64-Bhz"; */
+"D0f-64-Bhz.title" = "myMap";
+
+/* Class = "UISegmentedControl"; EkF-CP-3eo.segmentTitles[0] = "MAP"; ObjectID = "EkF-CP-3eo"; */
+"EkF-CP-3eo.segmentTitles[0]" = "MAP";
+
+/* Class = "UISegmentedControl"; EkF-CP-3eo.segmentTitles[1] = "Searching"; ObjectID = "EkF-CP-3eo"; */
+"EkF-CP-3eo.segmentTitles[1]" = "Searching";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "HZz-u0-6SE"; */
+"HZz-u0-6SE.normalTitle" = "START";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "J3u-vq-DMx"; */
+"J3u-vq-DMx.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "완료"; ObjectID = "S7l-zP-thY"; */
+"S7l-zP-thY.normalTitle" = "완료";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aBC-Yj-mmx"; */
+"aBC-Yj-mmx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Information"; ObjectID = "e7f-OL-LLf"; */
+"e7f-OL-LLf.normalTitle" = "Information";
+
+/* Class = "UILabel"; text = "식당이름"; ObjectID = "mTI-0E-GpA"; */
+"mTI-0E-GpA.text" = "식당이름";
+
+/* Class = "UILabel"; text = "# n"; ObjectID = "upZ-gC-aN0"; */
+"upZ-gC-aN0.text" = "# n";
+
+/* Class = "UIButton"; normalTitle = "지도 보기"; ObjectID = "wuH-t4-jbW"; */
+"wuH-t4-jbW.normalTitle" = "지도 보기";
+
+/* Class = "UILabel"; text = "주소"; ObjectID = "xZ2-C9-MEA"; */
+"xZ2-C9-MEA.text" = "주소";

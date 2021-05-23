@@ -6,7 +6,8 @@
 //
 
 import UIKit
-import Cosmos
+//import Cosmos
+import MapKit
 
 class ViewController: UIViewController {
     
@@ -14,6 +15,8 @@ class ViewController: UIViewController {
     
     //var Array = ["페스코", "락토", "비건"]
 
+    @IBOutlet var myMap: MKMapView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         //picker.delegate = self

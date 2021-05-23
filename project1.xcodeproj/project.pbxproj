@@ -10,7 +10,7 @@
 		D808484F264282280026C444 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D808484E264282280026C444 /* AppDelegate.swift */; };
 		D8084851264282280026C444 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8084850264282280026C444 /* SceneDelegate.swift */; };
 		D8084853264282280026C444 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8084852264282280026C444 /* ViewController.swift */; };
-		D8084856264282280026C444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8084854264282280026C444 /* Main.storyboard */; };
+		D8084856264282280026C444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8084854264282280026C444 /* Main.storyboard */; settings = {ASSET_TAGS = (MAP, ); }; };
 		D80848582642822A0026C444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D80848572642822A0026C444 /* Assets.xcassets */; };
 		D808485B2642822A0026C444 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D80848592642822A0026C444 /* LaunchScreen.storyboard */; };
 		D8CD3F1626599953005E36D6 /* Extension_UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CD3F1526599953005E36D6 /* Extension_UIView.swift */; };
@@ -18,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A9C178D265A4673004572F2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		D808484B264282280026C444 /* project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D808484E264282280026C444 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D8084850264282280026C444 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -101,6 +102,9 @@
 		D8084843264282280026C444 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					MAP,
+				);
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
@@ -162,6 +166,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D8084855264282280026C444 /* Base */,
+				9A9C178D265A4673004572F2 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
